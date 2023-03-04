@@ -1,6 +1,7 @@
 # 스마트 채점봇(Vision) - OCRGradingBot
 
-### [스마트 채점봇(Vision) 사용해보기 - 카카오톡 플러스친구](https://pf.kakao.com/_rDCsj)
+> [~~스마트 채점봇(Vision) 사용해보기 - 카카오톡 채널~~](https://pf.kakao.com/_rDCsj)  
+> **현재 위 챗봇은 서버 만료로 작동하지 않습니다.**
 
 ## 소스코드 사용전에(ToDo)...  
 #### 1. node modules를 설치해주세요.
